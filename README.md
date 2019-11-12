@@ -6,6 +6,8 @@
     https://github.com/ondrejsika/javadays2019
 
 
+Slides & Other informations: <https://ondrej-sika.cz/blog/javadays2019/>
+
 ## Docker
 
 ### Build
